@@ -1,2 +1,4 @@
 .venv
 uv.lock
+web-traffic-time-series-forecasting
+.ipynb_checkpoints
